@@ -1,0 +1,19 @@
+.whatsapp {
+    clear: both;
+    padding: 10px 0;
+}
+
+.whatsapp.center {
+    text-align: center;
+}
+
+.whatsapp span {
+    border-radius: 4px;
+    background: #25D366;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px 10px;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+}
